@@ -1,0 +1,10 @@
+.hero-section {
+  background: url('../img/hero-bg.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
